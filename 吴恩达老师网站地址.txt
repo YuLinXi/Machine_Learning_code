@@ -1,0 +1,2 @@
+﻿吴恩达老师github：https://vkosuri.github.io/CourseraMachineLearning/
+可选实验室：https://www.deeplearning.ai/
